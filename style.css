@@ -1,0 +1,15 @@
+h1 {
+  font-size: 30px;
+      color: blue;
+     border: 20px;
+}
+
+ol {
+  font-size: 20px;
+  background-color: green;
+}
+
+ul {
+  font-size: 40px;
+  background-color: red;
+}

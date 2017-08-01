@@ -1,0 +1,23 @@
+## Source/Version Control -
+     - Maintains current versions of software
+       for developers.
+     - Why is this important?
+         - Track versions and sub-versions such as 1.0, 2.0, 2.2, 2.3
+         - Saves time and $$$$ for employers
+
+
+## Git -
+It's NOT a programming language. Such as java, C ++, JS.
+It's a tool for source control with a list of commands
+
+
+
+## Github/BitBucket/Gitlab -
+     - Are platforms for developers to host their source code and interact with it.
+
+
+
+## Terminal -
+        - git status // Checks current status of the branch
+        - git add // Adds UNTRACKED files whether new or modified
+        - git commit  // Append a message on what you did
